@@ -1,0 +1,7 @@
+[project]
+name = "yt-subscribed-channels-exporter"
+version = "0.1.0"
+description = " This is "
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [google-api-python-client,google-auth-oauthlib]
